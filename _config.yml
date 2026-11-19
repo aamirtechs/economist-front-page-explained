@@ -1,0 +1,5 @@
+title: The Economist Front Page, Explained
+description: Every famous Economist front page since 2000, explained in easy words, with a verdict on each prediction.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
