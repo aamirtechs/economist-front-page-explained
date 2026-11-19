@@ -1,0 +1,39 @@
+{
+ "year": 2004,
+ "count": 3,
+ "covers": [
+  {
+   "year": 2004,
+   "date": "May 2004",
+   "cover": "Resign, Rumsfeld",
+   "theme": "War and security",
+   "prediction": "The US defence secretary had to resign over the Abu Ghraib scandal",
+   "status": "did_not_happen",
+   "status_label": "❌ DID NOT HAPPEN",
+   "what_happened": "He kept his job for two and a half more years, resigning in November 2006.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2004.html"
+  },
+  {
+   "year": 2004,
+   "date": "August 21, 2004",
+   "cover": "China's growing pains",
+   "theme": "China and Asia",
+   "prediction": "Pollution and health problems could slow China's rise",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "China kept rising and became the number two economy, but dirty air became a national crisis.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2004.html"
+  },
+  {
+   "year": 2004,
+   "date": "October 30, 2004",
+   "cover": "The incompetent or the incoherent?",
+   "theme": "Politics and leaders",
+   "prediction": "The magazine backed Kerry over Bush, with a heavy heart",
+   "status": "did_not_happen",
+   "status_label": "❌ DID NOT HAPPEN",
+   "what_happened": "Bush won the 2004 election and stayed president until 2009.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2004.html"
+  }
+ ]
+}

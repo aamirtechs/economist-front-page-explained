@@ -76,6 +76,10 @@ Five things that unlock almost every cover:
 
 ---
 
+## The data as an API
+
+Everything here is also published as a free JSON API, no key and no signup: all 62 covers with their predictions and statuses, a summary file, and one file per year. See the [API page](api.md) for the endpoints and an example record.
+
 ## A note on the images
 
 The cover artwork belongs to The Economist, so this project does not copy the images. Instead, every entry describes the cover picture in detail, in words, and links to sources where you can see the original. You can browse the real covers in the magazine's own archive at [economist.com](https://www.economist.com).

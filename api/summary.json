@@ -1,0 +1,41 @@
+{
+ "count": 62,
+ "by_status": {
+  "did_not_happen": 6,
+  "not_a_prediction": 9,
+  "happened": 21,
+  "partly_happened": 25,
+  "pending": 1
+ },
+ "by_theme": {
+  "Politics and leaders": 14,
+  "War and security": 6,
+  "Trade and globalisation": 3,
+  "China and Asia": 4,
+  "Money and markets": 13,
+  "Climate and energy": 3,
+  "Health and society": 3,
+  "Europe": 11,
+  "Tech and business": 5
+ },
+ "by_decade": {
+  "2000s": {
+   "DNH": 3,
+   "NP": 3,
+   "CT": 7,
+   "PT": 5
+  },
+  "2010s": {
+   "CT": 9,
+   "PT": 10,
+   "NP": 4,
+   "DNH": 3
+  },
+  "2020s": {
+   "CT": 5,
+   "PT": 10,
+   "NP": 2,
+   "TET": 1
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "year": 2017,
+ "count": 2,
+ "covers": [
+  {
+   "year": 2017,
+   "date": "June 17, 2017",
+   "cover": "Europe's saviour?",
+   "theme": "Europe",
+   "prediction": "Could one young leader rescue Europe and fix France?",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "Macron became Europe's leading voice, but faced the huge Yellow Vest protests.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2017.html"
+  },
+  {
+   "year": 2017,
+   "date": "August 5, 2017",
+   "cover": "It could happen",
+   "theme": "War and security",
+   "prediction": "America and North Korea could blunder into nuclear war",
+   "status": "did_not_happen",
+   "status_label": "❌ DID NOT HAPPEN",
+   "what_happened": "No war. Trump and Kim met three times and the threats calmed down.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2017.html"
+  }
+ ]
+}

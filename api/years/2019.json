@@ -1,0 +1,50 @@
+{
+ "year": 2019,
+ "count": 4,
+ "covers": [
+  {
+   "year": 2019,
+   "date": "January 26, 2019",
+   "cover": "Slowbalisation",
+   "theme": "Trade and globalisation",
+   "prediction": "The golden age of fast globalisation was over",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "Trade stayed flat, and production moved closer to home after COVID.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2019.html"
+  },
+  {
+   "year": 2019,
+   "date": "February 16, 2019",
+   "cover": "The rise of millennial socialism",
+   "theme": "Politics and leaders",
+   "prediction": "Socialism was back in fashion among the young",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "The ideas stayed strong, but Sanders lost and Corbyn lost heavily in 2019.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2019.html"
+  },
+  {
+   "year": 2019,
+   "date": "June 15, 2019",
+   "cover": "The rule of law in Hong Kong",
+   "theme": "China and Asia",
+   "prediction": "A new law would destroy Hong Kong's rule of law",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "Beijing imposed the National Security Law in 2020. Old freedoms are judged gone.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2019.html"
+  },
+  {
+   "year": 2019,
+   "date": "November 23, 2019",
+   "cover": "Hong Kong in revolt",
+   "theme": "China and Asia",
+   "prediction": "The revolt was about Hong Kong's whole future under China (a report)",
+   "status": "not_a_prediction",
+   "status_label": "⚪ NOT A PREDICTION",
+   "what_happened": "The protests faded in 2020 and the National Security Law ended free politics.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2019.html"
+  }
+ ]
+}

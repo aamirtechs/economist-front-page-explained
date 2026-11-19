@@ -1,0 +1,50 @@
+{
+ "year": 2012,
+ "count": 4,
+ "covers": [
+  {
+   "year": 2012,
+   "date": "April 14, 2012",
+   "cover": "Skintland",
+   "theme": "Europe",
+   "prediction": "Scottish independence would come at a high price",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "Scotland voted No in 2014. The oil income in the Yes plans then collapsed.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2012.html"
+  },
+  {
+   "year": 2012,
+   "date": "April 28, 2012",
+   "cover": "The rather dangerous Monsieur Hollande",
+   "theme": "Europe",
+   "prediction": "Hollande's plans were dangerous for France and for the euro",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "He softened his most radical plans and ended unpopular. The euro survived.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2012.html"
+  },
+  {
+   "year": 2012,
+   "date": "August 11, 2012",
+   "cover": "Tempted, Angela?",
+   "theme": "Europe",
+   "prediction": "Germany might tire of paying and let the euro break up",
+   "status": "did_not_happen",
+   "status_label": "❌ DID NOT HAPPEN",
+   "what_happened": "Draghi promised \"whatever it takes\". The euro survived and no country has left it.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2012.html"
+  },
+  {
+   "year": 2012,
+   "date": "November 17, 2012",
+   "cover": "The time-bomb at the heart of Europe",
+   "theme": "Europe",
+   "prediction": "France, not Greece or Spain, was the euro's biggest danger",
+   "status": "did_not_happen",
+   "status_label": "❌ DID NOT HAPPEN",
+   "what_happened": "Markets never attacked France. French borrowing costs stayed low.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2012.html"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "year": 2021,
+ "count": 2,
+ "covers": [
+  {
+   "year": 2021,
+   "date": "January 23, 2021",
+   "cover": "Morning after in America",
+   "theme": "Politics and leaders",
+   "prediction": "Biden faced a giant clean-up job in a divided country",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "Vaccines and a strong recovery came fast. Division and high inflation followed.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2021.html"
+  },
+  {
+   "year": 2021,
+   "date": "annual preview issue, published late 2020",
+   "cover": "The World in 2021",
+   "theme": "Politics and leaders",
+   "prediction": "2021 would be a gamble on vaccines, unity and climate action",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "Vaccines rolled out, but Delta and Omicron waves and the Capitol attack came too.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2021.html"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "year": 2015,
+ "count": 2,
+ "covers": [
+  {
+   "year": 2015,
+   "date": "August 29, 2015",
+   "cover": "The Great Fall of China",
+   "theme": "China and Asia",
+   "prediction": "China's economy was in deep trouble and fear could spread worldwide",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "Markets fell into early 2016, but there was no crash. China kept growing.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2015.html"
+  },
+  {
+   "year": 2015,
+   "date": "November 7, 2015",
+   "cover": "The indispensable European",
+   "theme": "Europe",
+   "prediction": "Only Merkel had the strength to lead Europe (a judgment)",
+   "status": "not_a_prediction",
+   "status_label": "⚪ NOT A PREDICTION",
+   "what_happened": "She led Germany until 2021, through Brexit and the Trump years.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2015.html"
+  }
+ ]
+}

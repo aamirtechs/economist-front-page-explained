@@ -1,0 +1,39 @@
+{
+ "year": 2011,
+ "count": 3,
+ "covers": [
+  {
+   "year": 2011,
+   "date": "March 5, 2011",
+   "cover": "Just as the world economy was recovering",
+   "theme": "Money and markets",
+   "prediction": "Trouble in the oil region could kill the young world recovery",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "Oil stayed costly and Europe hurt, but world growth still reached about 4 percent.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2011.html"
+  },
+  {
+   "year": 2011,
+   "date": "June 11, 2011",
+   "cover": "The man who screwed an entire country",
+   "theme": "Europe",
+   "prediction": "Berlusconi's years in power had badly damaged Italy (a judgment)",
+   "status": "not_a_prediction",
+   "status_label": "⚪ NOT A PREDICTION",
+   "what_happened": "He was forced to resign five months later. Italy's economy stayed weak for years.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2011.html"
+  },
+  {
+   "year": 2011,
+   "date": "November 12, 2011",
+   "cover": "That's all, folks!",
+   "theme": "Europe",
+   "prediction": "The Berlusconi era was finally over",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "He resigned the same week and never became prime minister again.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2011.html"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "year": 2014,
+ "count": 3,
+ "covers": [
+  {
+   "year": 2014,
+   "date": "January 18, 2014",
+   "cover": "A Cambrian moment",
+   "theme": "Tech and business",
+   "prediction": "An explosion of startups would reshape whole industries",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "Platforms transformed transport, hotels, shops, media, money and work.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2014.html"
+  },
+  {
+   "year": 2014,
+   "date": "September 2014",
+   "cover": "UK RIP?",
+   "theme": "Europe",
+   "prediction": "The magazine urged Scots to vote No to independence (an argument)",
+   "status": "not_a_prediction",
+   "status_label": "⚪ NOT A PREDICTION",
+   "what_happened": "Scotland voted No by 55 percent to 45 percent. The union survived.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2014.html"
+  },
+  {
+   "year": 2014,
+   "date": "December 6, 2014",
+   "cover": "Sheikhs v shale",
+   "theme": "Climate and energy",
+   "prediction": "The economics of oil had changed for good",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "Oil fell below 30 dollars. Shale survived and America became the top producer.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2014.html"
+  }
+ ]
+}

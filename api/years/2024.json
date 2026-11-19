@@ -1,0 +1,28 @@
+{
+ "year": 2024,
+ "count": 2,
+ "covers": [
+  {
+   "year": 2024,
+   "date": "annual preview issue, published November 2023",
+   "cover": "The World Ahead 2024",
+   "theme": "Politics and leaders",
+   "prediction": "Democracy was on the ballot in the biggest election year in history",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "More than 60 countries voted. Trump won the US presidency.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2024.html"
+  },
+  {
+   "year": 2024,
+   "date": "October 19, 2024",
+   "cover": "The envy of the world",
+   "theme": "Money and markets",
+   "prediction": "America's economy was the strongest in the rich world",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "US growth beat every other big rich economy in 2024.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2024.html"
+  }
+ ]
+}

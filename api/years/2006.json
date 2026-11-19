@@ -1,0 +1,17 @@
+{
+ "year": 2006,
+ "count": 1,
+ "covers": [
+  {
+   "year": 2006,
+   "date": "September 9, 2006",
+   "cover": "The heat is on",
+   "theme": "Climate and energy",
+   "prediction": "Climate uncertainty is a reason to act now, and America should lead",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "The world kept warming. America's climate leadership came and went.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2006.html"
+  }
+ ]
+}

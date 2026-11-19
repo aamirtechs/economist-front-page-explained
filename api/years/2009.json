@@ -1,0 +1,39 @@
+{
+ "year": 2009,
+ "count": 3,
+ "covers": [
+  {
+   "year": 2009,
+   "date": "May 2, 2009",
+   "cover": "The pandemic threat",
+   "theme": "Health and society",
+   "prediction": "A new flu could spread around the world as a pandemic",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "Swine flu was declared a pandemic but stayed mild. The huge pandemic came in 2020.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2009.html"
+  },
+  {
+   "year": 2009,
+   "date": "",
+   "cover": "Debt: the biggest bill in history",
+   "theme": "Money and markets",
+   "prediction": "Crisis debt would land on children and grandchildren",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "Rich world government debt kept climbing for 15 more years.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2009.html"
+  },
+  {
+   "year": 2009,
+   "date": "November 12, 2009",
+   "cover": "Brazil takes off",
+   "theme": "Money and markets",
+   "prediction": "Brazil's moment as a serious world power had arrived",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "A fast boom, then a deep recession in 2015 and 2016 and a giant corruption scandal.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2009.html"
+  }
+ ]
+}

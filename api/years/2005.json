@@ -1,0 +1,28 @@
+{
+ "year": 2005,
+ "count": 2,
+ "covers": [
+  {
+   "year": 2005,
+   "date": "June 18, 2005",
+   "cover": "After the fall",
+   "theme": "Money and markets",
+   "prediction": "The world housing bubble, the biggest in history, would pop",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "US house prices fell by about a third and helped cause the 2008 financial crisis.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2005.html"
+  },
+  {
+   "year": 2005,
+   "date": "August 27, 2005",
+   "cover": "The oiloholics",
+   "theme": "Climate and energy",
+   "prediction": "Oil prices could go higher while America and China stayed addicted to oil",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "Oil hit 147 dollars a barrel in 2008. Both stayed the top oil users for years.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2005.html"
+  }
+ ]
+}

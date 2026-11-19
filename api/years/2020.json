@@ -1,0 +1,50 @@
+{
+ "year": 2020,
+ "count": 4,
+ "covers": [
+  {
+   "year": 2020,
+   "date": "February 1, 2020",
+   "cover": "How bad will it get?",
+   "theme": "Health and society",
+   "prediction": "The Wuhan virus could become a pandemic",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "The WHO declared the COVID-19 pandemic weeks later.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2020.html"
+  },
+  {
+   "year": 2020,
+   "date": "March 28, 2020",
+   "cover": "Everything's under control",
+   "theme": "Politics and leaders",
+   "prediction": "The crisis would make government much bigger, and some power would stay",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "States spent trillions and controlled daily life, then gave up most controls.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2020.html"
+  },
+  {
+   "year": 2020,
+   "date": "May 2, 2020",
+   "cover": "The 90% economy",
+   "theme": "Money and markets",
+   "prediction": "Economies would run at about 90 percent of normal for a long time",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "It fitted 2020 and 2021, but vaccines and spending brought a stronger bounce.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2020.html"
+  },
+  {
+   "year": 2020,
+   "date": "June 27, 2020",
+   "cover": "The next catastrophe (and how to survive it)",
+   "theme": "Health and society",
+   "prediction": "The world should prepare properly for the next big disaster",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "More shocks came, and experts still say preparedness is weak.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2020.html"
+  }
+ ]
+}

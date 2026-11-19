@@ -1,0 +1,28 @@
+{
+ "year": 2010,
+ "count": 2,
+ "covers": [
+  {
+   "year": 2010,
+   "date": "May 1, 2010",
+   "cover": "Acropolis now",
+   "theme": "Europe",
+   "prediction": "Greece's debt crisis could spread across Europe and threaten the euro",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "It spread to Ireland, Portugal, Spain, Italy and Cyprus. Greece shrank by about a quarter.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2010.html"
+  },
+  {
+   "year": 2010,
+   "date": "July 2010",
+   "cover": "Shifting sands",
+   "theme": "Politics and leaders",
+   "prediction": "Change was coming to Egypt. Mubarak's grip was weaker than it looked",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "The Arab Spring swept Mubarak from power six months later.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2010.html"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "year": 2026,
+ "count": 3,
+ "covers": [
+  {
+   "year": 2026,
+   "date": "annual preview issue, published November 2025",
+   "cover": "The World Ahead 2026",
+   "theme": "Politics and leaders",
+   "prediction": "A year of celebration on the surface and deep danger underneath",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "America's 250th birthday and the World Cup happened. Wars and the AI race ran on.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2026.html"
+  },
+  {
+   "year": 2026,
+   "date": "September 2026",
+   "cover": "The sorcerer of silicon",
+   "theme": "Tech and business",
+   "prediction": "A portrait of Nvidia's boss at the very top of the AI boom (not a forecast)",
+   "status": "not_a_prediction",
+   "status_label": "⚪ NOT A PREDICTION",
+   "what_happened": "Nvidia's shares fell about 29 percent in the following weeks.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2026.html"
+  },
+  {
+   "year": 2026,
+   "date": "November 14, 2026",
+   "cover": "Whatever next?",
+   "theme": "Tech and business",
+   "prediction": "Can AI firms ever earn back the huge money poured into them?",
+   "status": "pending",
+   "status_label": "⏳ PENDING",
+   "what_happened": "PENDING. The issue is days old. The question is still open.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2026.html"
+  }
+ ]
+}

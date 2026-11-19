@@ -1,0 +1,28 @@
+{
+ "year": 2013,
+ "count": 2,
+ "covers": [
+  {
+   "year": 2013,
+   "date": "July 13, 2013",
+   "cover": "Has the Arab spring failed?",
+   "theme": "Politics and leaders",
+   "prediction": "Not yet. Change would be a long process",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "Egypt returned to military rule, and Syria, Libya and Yemen fell into long wars.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2013.html"
+  },
+  {
+   "year": 2013,
+   "date": "September 28, 2013",
+   "cover": "Has Brazil blown it?",
+   "theme": "Money and markets",
+   "prediction": "Brazil had wasted its boom years",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "Worst recession on record, the Petrobras scandal, and a president removed in 2016.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2013.html"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "year": 2022,
+ "count": 3,
+ "covers": [
+  {
+   "year": 2022,
+   "date": "March 5, 2022",
+   "cover": "The wordless Ukraine flag cover",
+   "theme": "War and security",
+   "prediction": "No words and no forecast. A statement of horror and support",
+   "status": "not_a_prediction",
+   "status_label": "⚪ NOT A PREDICTION",
+   "what_happened": "The war went on for years, with Ukraine still fighting, backed by the West.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2022.html"
+  },
+  {
+   "year": 2022,
+   "date": "March 19, 2022",
+   "cover": "The alternative world order",
+   "theme": "Politics and leaders",
+   "prediction": "Russia and China were building an alternative world order",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "Record trade and joint exercises followed, but no single formal bloc.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2022.html"
+  },
+  {
+   "year": 2022,
+   "date": "May 21, 2022",
+   "cover": "The coming food catastrophe",
+   "theme": "Money and markets",
+   "prediction": "The war could push the world into a huge food crisis",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "Food prices hit record highs and hunger rose, but the worst famine was avoided.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2022.html"
+  }
+ ]
+}

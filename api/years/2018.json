@@ -1,0 +1,28 @@
+{
+ "year": 2018,
+ "count": 2,
+ "covers": [
+  {
+   "year": 2018,
+   "date": "January 20, 2018",
+   "cover": "How to tame the tech titans",
+   "theme": "Tech and business",
+   "prediction": "Governments should rein in the giant tech firms",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "GDPR, billion dollar fines and big court cases followed, but no firm was broken up.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2018.html"
+  },
+  {
+   "year": 2018,
+   "date": "October 13, 2018",
+   "cover": "The next recession",
+   "theme": "Money and markets",
+   "prediction": "A recession was coming and rich countries were badly prepared",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "A recession came in 2020, but from a virus, not from the causes the cover listed.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2018.html"
+  }
+ ]
+}

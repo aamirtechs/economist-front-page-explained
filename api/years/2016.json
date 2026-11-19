@@ -1,0 +1,28 @@
+{
+ "year": 2016,
+ "count": 2,
+ "covers": [
+  {
+   "year": 2016,
+   "date": "July 2, 2016",
+   "cover": "Anarchy in the UK",
+   "theme": "Europe",
+   "prediction": "Brexit meant chaos, with nobody in control",
+   "status": "partly_happened",
+   "status_label": "🟡 PARTLY HAPPENED",
+   "what_happened": "No anarchy, but years of political chaos followed. Britain left the EU in 2020.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2016.html"
+  },
+  {
+   "year": 2016,
+   "date": "November 19, 2016",
+   "cover": "The new nationalism",
+   "theme": "Politics and leaders",
+   "prediction": "The world's big powers were all turning nationalist at once",
+   "status": "happened",
+   "status_label": "✅ HAPPENED",
+   "what_happened": "Travel bans, tariffs, a trade war with China and America First politics followed.",
+   "page": "https://aamirtechs.github.io/economist-front-page-explained/years/2016.html"
+  }
+ ]
+}
