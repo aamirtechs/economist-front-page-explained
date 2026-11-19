@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" font-family="Verdana, Geneva, sans-serif">
+<rect width="720" height="300" fill="#ffffff"/>
+<text x="36" y="34" font-size="19" font-weight="bold" fill="#24292e">AI: from ChatGPT to the bubble question</text>
+<text x="36" y="56" font-size="12.5" fill="#57606a">Four years of artificial intelligence, and the covers that tracked it.</text>
+<line x1="50" y1="150" x2="690" y2="150" stroke="#24292e" stroke-width="3"/>
+<circle cx="50" cy="150" r="7" fill="#e3120b"/>
+<text x="50" y="92" font-size="12.5" font-weight="bold" fill="#24292e" text-anchor="middle">Nov 2022</text>
+<text x="50" y="110" font-size="11" fill="#57606a" text-anchor="middle">ChatGPT launches</text>
+<text x="50" y="125" font-size="11" fill="#57606a" text-anchor="middle">and amazes the</text>
+<text x="50" y="140" font-size="11" fill="#57606a" text-anchor="middle">world</text>
+<circle cx="210" cy="150" r="7" fill="#e3120b"/>
+<text x="210" y="222" font-size="12.5" font-weight="bold" fill="#24292e" text-anchor="middle">Apr 2023</text>
+<text x="210" y="240" font-size="11" fill="#57606a" text-anchor="middle">The angel and</text>
+<text x="210" y="255" font-size="11" fill="#57606a" text-anchor="middle">devil AI cover</text>
+<circle cx="370" cy="150" r="7" fill="#e3120b"/>
+<text x="370" y="92" font-size="12.5" font-weight="bold" fill="#24292e" text-anchor="middle">2024</text>
+<text x="370" y="110" font-size="11" fill="#57606a" text-anchor="middle">Tech firms spend</text>
+<text x="370" y="125" font-size="11" fill="#57606a" text-anchor="middle">hundreds of</text>
+<text x="370" y="140" font-size="11" fill="#57606a" text-anchor="middle">billions on AI</text>
+<circle cx="530" cy="150" r="7" fill="#e3120b"/>
+<text x="530" y="222" font-size="12.5" font-weight="bold" fill="#24292e" text-anchor="middle">Sep 2026</text>
+<text x="530" y="240" font-size="11" fill="#57606a" text-anchor="middle">Nvidia at its</text>
+<text x="530" y="255" font-size="11" fill="#57606a" text-anchor="middle">peak: the sorcerer</text>
+<text x="530" y="270" font-size="11" fill="#57606a" text-anchor="middle">of silicon</text>
+<circle cx="690" cy="150" r="7" fill="#e3120b"/>
+<text x="690" y="92" font-size="12.5" font-weight="bold" fill="#24292e" text-anchor="middle">Nov 2026</text>
+<text x="690" y="110" font-size="11" fill="#57606a" text-anchor="middle">Whatever next? The</text>
+<text x="690" y="125" font-size="11" fill="#57606a" text-anchor="middle">bubble question</text>
+<text x="36" y="282" font-size="11" fill="#57606a">AI brought real gains and real fears at the same time. The argument is still open.</text></svg>

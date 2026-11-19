@@ -12,13 +12,17 @@ This project does both jobs. It explains the covers, and it marks them.
 
 ## How each cover is explained
 
-Every entry in this project follows the same five steps:
+Every entry in this project follows the same seven steps:
 
 1. **What the cover shows.** A plain description of the picture, including the joke or reference hidden in it.
-2. **What was happening.** The news of that week, in a few easy sentences.
-3. **The point it made.** The argument or warning the magazine was making.
-4. **The verdict.** One of: *Came true*, *Partly true*, *Did not happen*, *Not a prediction*, or *Too early to tell*.
-5. **What actually happened.** The evidence for the verdict, with sources.
+2. **The picture, piece by piece.** Every element of the artwork decoded: what each person, object and symbol stands for.
+3. **What was happening.** The news of that week, in a few easy sentences.
+4. **The point it made.** The argument or warning the magazine was making.
+5. **The verdict.** One of: *Came true*, *Partly true*, *Did not happen*, *Not a prediction*, or *Too early to tell*.
+6. **What actually happened.** The evidence for the verdict, with sources.
+7. **What happened next.** A short dated timeline of the events that followed the cover.
+
+Key entries also carry original charts and timelines drawn for this project, so you can see the numbers behind the verdict: house prices for the 2005 bubble warning, the oil price crash of 2014 to 2016, China's growth after the 2015 scare, world food prices in 2022, and more.
 
 Start with the [Predictions Scorecard](scorecard.md) for the greatest hits and the famous misses, or jump to any year below.
 
