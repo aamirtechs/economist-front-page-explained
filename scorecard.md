@@ -2,7 +2,7 @@
 
 [Back to the full index](README.md)
 
-Every cover in this project gets a verdict. This page collects the clearest results: the covers that called the future right, the covers that got it wrong, and the famous in-between cases people still argue about.
+Every cover in this project gets a verdict. This page collects the clearest results: the covers that called the future right, the covers that got it wrong, and the famous in-between cases people still argue about. For all 62 covers in one table, with a status column, see [The Predictions Board](predictions.md).
 
 Verdicts used in this project:
 

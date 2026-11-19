@@ -8,6 +8,8 @@ This project does both jobs. It explains the covers, and it marks them.
 
 **62 covers explained so far, from 2000 to 2026, and growing.**
 
+> **Start here: [The Predictions Board](predictions.md).** Every cover on one page, in a single table: the prediction on the left, and on the right its status, ✅ happened, 🟡 partly happened, ❌ did not happen, or ⏳ still pending.
+
 ---
 
 ## How each cover is explained
